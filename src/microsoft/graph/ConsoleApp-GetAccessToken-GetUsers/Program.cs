@@ -5,7 +5,7 @@ using System;
 using System.Net.Http;
 using System.Threading.Tasks;
 
-namespace ApiGraphMS
+namespace DewirideCSharpSamples.Microsoft.Graph.GetUsersConsoleApp
 {
 	class Program
 	{

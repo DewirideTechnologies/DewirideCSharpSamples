@@ -9,6 +9,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Graph", "Graph", "{A4F33D3F
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GetUsersConsoleApp", "src\microsoft\graph\ConsoleApp-GetAccessToken-GetUsers\GetUsersConsoleApp.csproj", "{851615D4-7E72-4718-9511-3D9D212583A3}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "WebApi", "WebApi", "{4BE650EF-6DF6-4C77-92C3-E5C1B88E7C03}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StudentAppCRUDWebApi", "src\webapi\Student-App-Web-API-CRUD\StudentAppCRUDWebApi.csproj", "{E57A012E-EC10-434E-A88B-0D375B18B42C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,6 +23,10 @@ Global
 		{851615D4-7E72-4718-9511-3D9D212583A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{851615D4-7E72-4718-9511-3D9D212583A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{851615D4-7E72-4718-9511-3D9D212583A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E57A012E-EC10-434E-A88B-0D375B18B42C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E57A012E-EC10-434E-A88B-0D375B18B42C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E57A012E-EC10-434E-A88B-0D375B18B42C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E57A012E-EC10-434E-A88B-0D375B18B42C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -26,6 +34,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{A4F33D3F-2601-4A2E-AB2D-0C2B1E640A96} = {5745E6E0-A5FC-4211-ADF2-7DCA88E16C1E}
 		{851615D4-7E72-4718-9511-3D9D212583A3} = {A4F33D3F-2601-4A2E-AB2D-0C2B1E640A96}
+		{E57A012E-EC10-434E-A88B-0D375B18B42C} = {4BE650EF-6DF6-4C77-92C3-E5C1B88E7C03}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {A3B6CCE9-4AE6-4388-B152-64923109F954}

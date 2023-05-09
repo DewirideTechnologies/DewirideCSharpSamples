@@ -46,4 +46,4 @@ We welcome contributions to this repository. If you have a C# sample you'd like 
 
 ## License
 
-This repository is licensed under the [MIT License](LICENSE).
+This repository is licensed under the [MIT License](LICENSE.txt).
